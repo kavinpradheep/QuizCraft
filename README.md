@@ -29,9 +29,13 @@ This project is an interactive quiz platform that allows **admins to create cont
 
 ## 📸 Screenshots
 
-| Landing Page | Question Setup | Live Quiz | Leaderboard |
-|--------------|------------------|----------------|-----------|-----------|-------------|
-| ![Landing](screenshots/landing.png) | ![Create Quiz](screenshots/create-quiz.png)  | ![Quiz](screenshots/live-quiz.png) | ![Leaderboard](screenshots/leaderboard.png) |
+| Landing Page | 
+|--------------|
+| ![Landing](screenshots/landing.png) | 
+
+| Question Setup | 
+|--------------|
+![Create Quiz](screenshots/create-quiz.png)  | ![Quiz](screenshots/live-quiz.png) | ![Leaderboard](screenshots/leaderboard.png) |
 
 > Be sure the screenshots folder has all the above images with matching names.
 
