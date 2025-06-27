@@ -29,7 +29,7 @@ This project is an interactive quiz platform that allows **admins to create cont
 
 ## 📸 Screenshots
 
-| Landing Page | Admin Dashboard | Question Setup | Join Quiz | Live Quiz | Leaderboard |
+| Landing Page | Question Setup | Live Quiz | Leaderboard |
 |--------------|------------------|----------------|-----------|-----------|-------------|
 | ![Landing](screenshots/landing.png) | ![Create Quiz](screenshots/create-quiz.png)  | ![Quiz](screenshots/live-quiz.png) | ![Leaderboard](screenshots/leaderboard.png) |
 
