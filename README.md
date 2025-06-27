@@ -35,7 +35,15 @@ This project is an interactive quiz platform that allows **admins to create cont
 
 | Question Setup | 
 |--------------|
-![Create Quiz](screenshots/create-quiz.png)  | ![Quiz](screenshots/live-quiz.png) | ![Leaderboard](screenshots/leaderboard.png) |
+![Create Quiz](screenshots/create-quiz.png)  | 
+
+| Live Quiz |
+|--------------|
+![Quiz](screenshots/live-quiz.png) | 
+
+| Leaderboard |
+|--------------|
+![Leaderboard](screenshots/leaderboard.png) |
 
 > Be sure the screenshots folder has all the above images with matching names.
 
